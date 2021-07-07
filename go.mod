@@ -1,4 +1,4 @@
-module github.com/ikawaha/httpcheck
+module github.com/haruyama/httpcheck
 
 go 1.16
 
